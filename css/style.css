@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: black;
+    border: 2px solid black;
+    margin: auto;
+    width: 60%;
+    margin-top: 6rem;
+
+}
+
+.col{
+    padding: 0.5rem 0.5rem;
+}
+.btn-cal{
+    padding: 0.5rem 1rem;
+    border-radius: 6rem;
+}
+
+.btn-cals{
+    padding: 0.5rem 2rem;
+    border-radius: 2rem;
+}
+.input-feild{
+      width: 87%;  
+      padding: 0.6rem;
+}
+.inputs{
+    padding: 0.5rem;
+
+}
+.contents{
+    padding-right: 0.2rem;
+}
+.colors1{
+    background-color: rgb(89, 150, 204);
+    border: none;
+    color:#fff;
+}
+.calc{
+    color:rgb(89, 150, 204);
+}
+.color{
+    background-color: red;
+    border:none;
+    color:#fff;
+}
+
+/* timer */
+.contenar{
+ 
+   
+    margin: 10%;
+    text-align: center;
+}
+.countdown{
+    background-color: rgb(5, 99, 99);
+    font-size: 2rem;
+    padding: 2%;
+    color: rgb(255, 252, 246);
+    margin-bottom: 1%;
+}
+.all-span{
+    margin-top: 1%;
+    
+}
+.days{
+    background-color: aqua;
+    font-size: 2rem;
+    padding: 2rem;
+}
+.hours{
+    background-color: aqua;
+    font-size: 2rem;
+    padding: 2rem;
+}
+.minuts{
+    background-color: aqua;
+    font-size: 2rem;
+    padding: 2rem;
+}
+.secound{
+    background-color: aqua;
+    font-size: 2rem;
+    padding: 2rem;
+}
+.all-span{
+    display:none;
+}
+#start{
+    padding: 0.8rem 3rem;
+    border-radius: 2rem;
+    border: none;
+    background-color: #87ddec;
+    font-size: 1.5rem;
+    margin-top: 3rem;
+}
